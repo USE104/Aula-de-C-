@@ -1,0 +1,16 @@
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.exe.config
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmEstacionamento.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmFuncionarios.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmLogin.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmMenuPrincipal.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmSplash.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmVeiculos.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.AssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmProdutos.resources
